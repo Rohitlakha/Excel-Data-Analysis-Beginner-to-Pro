@@ -17,9 +17,14 @@ Welcome to my project repository for the **"Excel Data Analysis Course (Beginner
 
 ## 📸 Sample Work
 
+> ![Dataset and Task](Screenshots/dataset and task.png)
+>
+> 
 > ![Pivot Table Summary](Screenshots/pivot_summary.png)
+> 
 
-> ![Excel Dashboard](Screenshots/chart_dashboard.png)
+
+> ![Excel Dashboard](Screenshots/Dynamic report.png)
 
 ## 🔗 Course Link
 
