@@ -64,7 +64,7 @@
 
 ### 📌 Example Screenshot (if included in repo)
 
-![Pivot Table Example](../Screenshots/pivot_summary.png)
+![Pivot Table Example](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/3fa207323437c0c5e235e9acfcf5170e6d05868e/Screenshots/Pivot%20Table%20Example.png)
 
 ---
 
