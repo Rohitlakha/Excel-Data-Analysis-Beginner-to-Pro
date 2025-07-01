@@ -42,5 +42,5 @@ This project demonstrates my skills in data preprocessing, analysis, and visuali
 
 ---
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/) if you want to collaborate or discuss analytics projects!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/rohit-lakha/) if you want to collaborate or discuss analytics projects!
 
