@@ -32,11 +32,50 @@ Welcome to my project repository for the **"Excel Data Analysis Course (Beginner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v2oNWja7M2E)
 
+## 🧾 Files Included
+
+| File Name                          | Description |
+|-----------------------------------|-------------|
+| `beginner-DA-course-blank.xlsx`   | A blank Excel workbook template for others to follow along and practice. |
+| `beginner-DA-course.xlsx`         | My completed version of the Excel Data Analysis course, with all tasks done. |
+| `functions_summary.md`            | Summary of commonly used Excel functions with examples. |
+| `pivot_guide.md`                  | Step-by-step guide on how to create and use Pivot Tables in Excel. |
+
+---
+
+## ✅ How to Use This Repo
+
+1. **Download or clone the repository**
+2. Open `beginner-DA-course-blank.xlsx` to practice the course exercises yourself.
+3. Refer to `beginner-DA-course.xlsx` to compare your results or get guidance.
+4. Use the Markdown notes (`functions_summary.md` and `pivot_guide.md`) as quick references during your learning.
+
+---
+
+## 💬 Why This Matters
+
+This project demonstrates my ability to:
+
+- Work through real Excel analysis challenges
+- Clean, transform, and analyze data
+- Build pivot tables and dashboards
+- Use core Excel functions used in real-world business settings
+
+
+---
+## 📂 Folder Structure
+
+
+---
+
 ## 📌 Tools Used
 
 - Microsoft Excel
 - Data Analysis ToolPak
 - Sample Datasets
+
+---
+
 
 ## 💼 Use Case
 
