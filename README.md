@@ -21,8 +21,10 @@ Welcome to my project repository for the **"Excel Data Analysis Course (Beginner
 >
 > 
 > ![Pivot Table Summary](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/f9168747a0334fc3299d46d1d27a791f4f78f956/Screenshots/chart_dashboard.png)
+>
 > 
-
+> > ![Pivot Table Summary](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/3fa207323437c0c5e235e9acfcf5170e6d05868e/Screenshots/Pivot%20Table%20Example.png)
+> 
 
 > ![Excel Dashboard](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/f9168747a0334fc3299d46d1d27a791f4f78f956/Screenshots/Dynamic%20report.png)
 
