@@ -17,7 +17,7 @@ Welcome to my project repository for the **"Excel Data Analysis Course (Beginner
 
 ## 📸 Sample Work
 
-> ![Dataset and Task](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/f9168747a0334fc3299d46d1d27a791f4f78f956/Screenshots/dataset and task.png)
+> ![Dataset and Task](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/main/Screenshots%2Fdataset%20and%20task.png)
 >
 > 
 > ![Pivot Table Summary](https://github.com/Rohitlakha/Excel-Data-Analysis-Beginner-to-Pro/blob/f9168747a0334fc3299d46d1d27a791f4f78f956/Screenshots/chart_dashboard.png)
