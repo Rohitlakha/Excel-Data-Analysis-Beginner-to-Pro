@@ -61,11 +61,6 @@ This project demonstrates my ability to:
 - Build pivot tables and dashboards
 - Use core Excel functions used in real-world business settings
 
-
----
-## 📂 Folder Structure
-
-
 ---
 
 ## 📌 Tools Used
